@@ -70,7 +70,7 @@ public void example1() {
 
 		int[] nums= {1,2,3,4,5};
 		int remove = 4;
-		 for (int i = 0; i < nums.length-2; i++) {
+		 for (int i = 0; i < nums.length; i++) {
 			 if (nums[i] != remove) {
 				 System.out.println(nums[i]);
 			 }
