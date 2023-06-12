@@ -2,7 +2,7 @@ package week4_WeekdayProblems;
 
 import org.junit.Test;
 
-public class week4day3program1_reverselnkedlists {
+public class week4day4program1_reverselnkedlists {
 //	Homework 18/05/2023:
 //		https://leetcode.com/problems/reverse-linked-list/
 
